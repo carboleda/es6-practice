@@ -1,5 +1,9 @@
 # es6-practice
-Practica de características de ES6
+
+**Fuente:**
+https://github.com/TondaHack/react-course
+
+Practica de características de ES6:
 
 * Arrow function
 * Template strings
