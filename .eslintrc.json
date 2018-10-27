@@ -1,0 +1,13 @@
+{
+    "parser": "babel-eslint",
+    "extends": "airbnb",
+    "rules": {
+        "no-console": ["off"],
+        "no-useless-concat": ["error"],
+        "func-names": ["warn"],
+        "prefer-destructuring": ["error", {"object": true, "array": false}],
+        "semi": ["error", "always"],
+        "quotes": ["error", "single"],
+        "indent": ["error", 4]
+    }
+}

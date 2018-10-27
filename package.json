@@ -1,0 +1,35 @@
+{
+  "name": "es6-practice",
+  "version": "1.0.0",
+  "description": "Practica de características de ES6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "eslint": "./node_modules/.bin/eslint **/*.js; exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carboleda/es6-practice.git"
+  },
+  "keywords": [
+    "ES6",
+    "JavaScript"
+  ],
+  "author": "carboleda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carboleda/es6-practice/issues"
+  },
+  "homepage": "https://github.com/carboleda/es6-practice#readme",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.7.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.2",
+    "eslint-plugin-react": "^7.11.1"
+  }
+}
